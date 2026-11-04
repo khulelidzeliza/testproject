@@ -4,6 +4,5 @@ public class ServiceMenu
 {
     bool isServiceMenuRunning = true;
         
-    while(isServiceMenuRunning == true)
     
 }
