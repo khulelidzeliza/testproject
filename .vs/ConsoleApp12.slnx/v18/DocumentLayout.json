@@ -1,0 +1,241 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDD43A-AA36-4A60-947E-E92CB046E91B}|ConsoleApp12.csproj|c:\\users\\teacher\\source\\repos\\consoleapp12\\services\\servicesfolder\\servicefolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDD43A-AA36-4A60-947E-E92CB046E91B}|ConsoleApp12.csproj|solutionrelative:services\\servicesfolder\\servicefolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDD43A-AA36-4A60-947E-E92CB046E91B}|ConsoleApp12.csproj|c:\\users\\teacher\\source\\repos\\consoleapp12\\services\\servicesfolder\\iservicefolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDD43A-AA36-4A60-947E-E92CB046E91B}|ConsoleApp12.csproj|solutionrelative:services\\servicesfolder\\iservicefolder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDD43A-AA36-4A60-947E-E92CB046E91B}|ConsoleApp12.csproj|c:\\users\\teacher\\source\\repos\\consoleapp12\\services\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDD43A-AA36-4A60-947E-E92CB046E91B}|ConsoleApp12.csproj|solutionrelative:services\\users\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDD43A-AA36-4A60-947E-E92CB046E91B}|ConsoleApp12.csproj|c:\\users\\teacher\\source\\repos\\consoleapp12\\models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDD43A-AA36-4A60-947E-E92CB046E91B}|ConsoleApp12.csproj|solutionrelative:models\\service.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDD43A-AA36-4A60-947E-E92CB046E91B}|ConsoleApp12.csproj|c:\\users\\teacher\\source\\repos\\consoleapp12\\data\\service.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{05CDD43A-AA36-4A60-947E-E92CB046E91B}|ConsoleApp12.csproj|solutionrelative:data\\service.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDD43A-AA36-4A60-947E-E92CB046E91B}|ConsoleApp12.csproj|c:\\users\\teacher\\source\\repos\\consoleapp12\\services\\users\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDD43A-AA36-4A60-947E-E92CB046E91B}|ConsoleApp12.csproj|solutionrelative:services\\users\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDD43A-AA36-4A60-947E-E92CB046E91B}|ConsoleApp12.csproj|c:\\users\\teacher\\source\\repos\\consoleapp12\\services\\bookings\\bookingservice\u0027.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDD43A-AA36-4A60-947E-E92CB046E91B}|ConsoleApp12.csproj|solutionrelative:services\\bookings\\bookingservice\u0027.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDD43A-AA36-4A60-947E-E92CB046E91B}|ConsoleApp12.csproj|c:\\users\\teacher\\source\\repos\\consoleapp12\\services\\bookings\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDD43A-AA36-4A60-947E-E92CB046E91B}|ConsoleApp12.csproj|solutionrelative:services\\bookings\\ibookingservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDD43A-AA36-4A60-947E-E92CB046E91B}|ConsoleApp12.csproj|c:\\users\\teacher\\source\\repos\\consoleapp12\\enums\\bookingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDD43A-AA36-4A60-947E-E92CB046E91B}|ConsoleApp12.csproj|solutionrelative:enums\\bookingtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDD43A-AA36-4A60-947E-E92CB046E91B}|ConsoleApp12.csproj|c:\\users\\teacher\\source\\repos\\consoleapp12\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDD43A-AA36-4A60-947E-E92CB046E91B}|ConsoleApp12.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDD43A-AA36-4A60-947E-E92CB046E91B}|ConsoleApp12.csproj|c:\\users\\teacher\\source\\repos\\consoleapp12\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDD43A-AA36-4A60-947E-E92CB046E91B}|ConsoleApp12.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDD43A-AA36-4A60-947E-E92CB046E91B}|ConsoleApp12.csproj|c:\\users\\teacher\\source\\repos\\consoleapp12\\enums\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDD43A-AA36-4A60-947E-E92CB046E91B}|ConsoleApp12.csproj|solutionrelative:enums\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05CDD43A-AA36-4A60-947E-E92CB046E91B}|ConsoleApp12.csproj|c:\\users\\teacher\\source\\repos\\consoleapp12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05CDD43A-AA36-4A60-947E-E92CB046E91B}|ConsoleApp12.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Service.txt",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\Data\\Service.txt",
+              "RelativeDocumentMoniker": "Data\\Service.txt",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\Data\\Service.txt",
+              "RelativeToolTip": "Data\\Service.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2026-11-02T13:46:06.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ServiceFolder.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\Services\\ServicesFolder\\ServiceFolder.cs",
+              "RelativeDocumentMoniker": "Services\\ServicesFolder\\ServiceFolder.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\Services\\ServicesFolder\\ServiceFolder.cs",
+              "RelativeToolTip": "Services\\ServicesFolder\\ServiceFolder.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T13:05:45.547Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IServiceFolder.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\Services\\ServicesFolder\\IServiceFolder.cs",
+              "RelativeDocumentMoniker": "Services\\ServicesFolder\\IServiceFolder.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\Services\\ServicesFolder\\IServiceFolder.cs",
+              "RelativeToolTip": "Services\\ServicesFolder\\IServiceFolder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T13:05:36.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\Services\\Users\\UserService.cs",
+              "RelativeDocumentMoniker": "Services\\Users\\UserService.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\Services\\Users\\UserService.cs",
+              "RelativeToolTip": "Services\\Users\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T13:05:23.988Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\Services\\Users\\IUserService.cs",
+              "RelativeDocumentMoniker": "Services\\Users\\IUserService.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\Services\\Users\\IUserService.cs",
+              "RelativeToolTip": "Services\\Users\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T13:05:17.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "BookingService\u0027.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\Services\\Bookings\\BookingService\u0027.cs",
+              "RelativeDocumentMoniker": "Services\\Bookings\\BookingService\u0027.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\Services\\Bookings\\BookingService\u0027.cs",
+              "RelativeToolTip": "Services\\Bookings\\BookingService\u0027.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T13:05:09.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookingService.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\Services\\Bookings\\IBookingService.cs",
+              "RelativeDocumentMoniker": "Services\\Bookings\\IBookingService.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\Services\\Bookings\\IBookingService.cs",
+              "RelativeToolTip": "Services\\Bookings\\IBookingService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T13:05:02.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Service.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\Models\\Service.cs",
+              "RelativeDocumentMoniker": "Models\\Service.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\Models\\Service.cs",
+              "RelativeToolTip": "Models\\Service.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAxwAsAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T12:38:58.338Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BookingType.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\Enums\\BookingType.cs",
+              "RelativeDocumentMoniker": "Enums\\BookingType.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\Enums\\BookingType.cs",
+              "RelativeToolTip": "Enums\\BookingType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T12:57:24.366Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\Enums\\Category.cs",
+              "RelativeDocumentMoniker": "Enums\\Category.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\Enums\\Category.cs",
+              "RelativeToolTip": "Enums\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T12:46:39.756Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T12:38:39.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA1wA8AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T12:38:26.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\teacher\\source\\repos\\ConsoleApp12\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-11-02T12:35:00.508Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
