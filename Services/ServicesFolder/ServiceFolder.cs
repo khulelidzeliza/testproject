@@ -1,6 +1,6 @@
-﻿using System.Globalization;
-using ConsoleApp12.Enums;
+﻿using ConsoleApp12.Enums;
 using ConsoleApp12.Models;
+using System.Globalization;
 
 namespace ConsoleApp12.Services.ServicesFolder;
 
@@ -34,9 +34,9 @@ internal class ServiceFolder : IServiceFolder
         return true;
     }
 
-    public void DeleteService(int Id, List<Service> services)
+    public void DeleteService(int Id)
     {
-        var service = services.FirstOrDefault(s => s.Id == Id);
+        var service = GetServices().FirstOrDefault(s => s.Id == Id);
 
         if (service == null)
         {
@@ -44,15 +44,7 @@ internal class ServiceFolder : IServiceFolder
             return;
         }
 
-        services.Remove(service);
-
-        var lines = new List<string>();
-        foreach (var s in services)
-        {
-            lines.Add($"{s.Id}|{s.Category}|{s.Price.ToString(CultureInfo.InvariantCulture)}|{s.DurationInMinutes}|{s.Description}|{s.IsShipable}");
-        }
-        File.WriteAllLines(path, lines);
-
+        GetServices().Remove(service);
         Console.WriteLine("Service deleted.");
     }
 
